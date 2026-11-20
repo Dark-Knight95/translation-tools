@@ -1,0 +1,21 @@
+{
+  "version": "2.0.2",
+  "platform": "Windows 10/11 x64",
+  "file": "TranslationTools.exe",
+  "bytes": 15820800,
+  "sha256": "9ca0288b69181088a34ea3f4dbc8758b8d11afe84c1c872c8fcd4970a2b3ad87",
+  "python_required": false,
+  "bundled_python": "3.12.14",
+  "bundled_tk": "8.6.12",
+  "validation": {
+    "date": "2026-11-20",
+    "core_tests_passed": 48,
+    "gui_checks_passed": 4,
+    "isolated_runtime": true,
+    "console_free_interpreter": true,
+    "temporary_cleanup": true,
+    "nightglass_executable_icons": true,
+    "nightglass_window_icon": true
+  },
+  "icon": "Darknyte Nightglass"
+}
